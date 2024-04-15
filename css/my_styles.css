@@ -23,4 +23,6 @@ body {
 .edu_icon{
     color:gold
 }   
-    
+ul.sp{
+   list-style-type: square;
+}
