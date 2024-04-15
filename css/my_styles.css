@@ -1,15 +1,16 @@
 .redred{
     color:red;
 }
+.blueblue{
+    color:blue;
+}
 body {
     font-family: 'Noto Sans TC', sans-serif;
     }
     h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     font-family: 'Noto Serif TC', sans-serif;
     }
-    .blueblue{
-        color:blue;
-    }
+    
     p.redred{
         color:red;
         font-size: 40px;
