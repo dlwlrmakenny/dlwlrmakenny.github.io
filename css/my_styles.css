@@ -28,7 +28,7 @@ ul.sp{
 }
 .rounded-box{
     width: 200px;
-    height: 200px;
-    background-size:cover;
+    height: 200px; solid black;
+    border: 2px
     border-radius: 50%;
 }
