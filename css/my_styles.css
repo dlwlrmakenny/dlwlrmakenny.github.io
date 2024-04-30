@@ -26,9 +26,14 @@ body {
 ul.sp{
    list-style-type: square;
 }
-.rounded-box{
-    width: 200px;
-    height: 200px; 
-    border: 2px ;
-    border-radius: 50%;
+
+.shape-ex1{
+    font-size: 18px;
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    transition: all .3s linear;
+}
+.shape-ex1:hover{
+    color: aqua;
 }
