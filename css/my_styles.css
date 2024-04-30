@@ -40,3 +40,8 @@ ul.sp{
 .shape-ex1:hover{
     color: aqua;
 }
+
+.kenny{
+    background-color: aqua;
+    border-radius: 10px;
+}
